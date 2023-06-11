@@ -1,0 +1,42 @@
+[2023-06-11T02:17:47.286+0200] {processor.py:156} INFO - Started process (PID=47549) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:17:47.286+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-06-11T02:17:47.287+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:47.287+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:17:47.305+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:17:47.314+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:47.314+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:17:47.335+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:47.335+0200] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2023-06-10T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-11T02:17:47.356+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.073 seconds
+[2023-06-11T02:19:15.288+0200] {processor.py:156} INFO - Started process (PID=47731) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:19:15.299+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-06-11T02:19:15.300+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:15.299+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:19:15.317+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:19:15.344+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:15.344+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:19:15.361+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:15.361+0200] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2023-06-10T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-11T02:19:15.381+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.095 seconds
+[2023-06-11T02:22:18.249+0200] {processor.py:156} INFO - Started process (PID=47914) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:22:18.250+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-06-11T02:22:18.251+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:18.251+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:22:18.265+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:22:18.275+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:18.275+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:22:18.290+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:18.290+0200] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2023-06-10T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-11T02:22:18.310+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.063 seconds
+[2023-06-11T02:23:04.539+0200] {processor.py:156} INFO - Started process (PID=47956) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:23:04.550+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-06-11T02:23:04.550+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:04.550+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:23:04.567+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:23:04.591+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:04.591+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:23:04.606+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:04.606+0200] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2023-06-10T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-11T02:23:04.623+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.086 seconds
+[2023-06-11T02:23:53.903+0200] {processor.py:156} INFO - Started process (PID=48005) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:23:53.913+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-06-11T02:23:53.914+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:53.913+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:23:53.927+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:23:53.952+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:53.952+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:23:53.966+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:53.966+0200] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2023-06-10T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-11T02:23:53.983+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.082 seconds
+[2023-06-11T02:24:35.769+0200] {processor.py:156} INFO - Started process (PID=48047) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:24:35.780+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-06-11T02:24:35.780+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:35.780+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:24:35.795+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-06-11T02:24:35.817+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:35.817+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:24:35.831+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:35.831+0200] {dag.py:3324} INFO - Setting next_dagrun for example_bash_operator to 2023-06-10T00:00:00+00:00, run_after=2023-06-11T00:00:00+00:00
+[2023-06-11T02:24:35.848+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.081 seconds

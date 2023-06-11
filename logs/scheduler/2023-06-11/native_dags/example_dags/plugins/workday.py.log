@@ -1,0 +1,25 @@
+[2023-06-11T02:17:57.576+0200] {processor.py:156} INFO - Started process (PID=47559) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:17:57.576+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-06-11T02:17:57.577+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:57.577+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:17:57.578+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:17:57.584+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.010 seconds
+[2023-06-11T02:19:25.601+0200] {processor.py:156} INFO - Started process (PID=47741) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:19:25.611+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-06-11T02:19:25.612+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:25.612+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:19:25.613+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:19:25.619+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.020 seconds
+[2023-06-11T02:22:28.643+0200] {processor.py:156} INFO - Started process (PID=47924) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:22:28.654+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-06-11T02:22:28.655+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:28.655+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:22:28.657+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:22:28.665+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2023-06-11T02:23:21.338+0200] {processor.py:156} INFO - Started process (PID=47973) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:23:21.349+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-06-11T02:23:21.350+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:21.350+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:23:21.351+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:23:21.357+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.022 seconds
+[2023-06-11T02:24:11.122+0200] {processor.py:156} INFO - Started process (PID=48023) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:24:11.133+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-06-11T02:24:11.133+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:11.133+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:24:11.134+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-06-11T02:24:11.140+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds

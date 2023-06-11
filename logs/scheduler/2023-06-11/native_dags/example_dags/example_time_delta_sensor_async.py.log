@@ -1,0 +1,56 @@
+[2023-06-11T02:17:40.403+0200] {processor.py:156} INFO - Started process (PID=47541) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:17:40.403+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:17:40.404+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:40.404+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:17:40.412+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:17:40.421+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:40.421+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:17:40.437+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:40.436+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:17:40.466+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.065 seconds
+[2023-06-11T02:18:20.593+0200] {processor.py:156} INFO - Started process (PID=47587) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:18:20.594+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:18:20.595+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:18:20.595+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:18:20.604+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:18:20.674+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:18:20.674+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:18:20.693+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:18:20.693+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:18:20.717+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.125 seconds
+[2023-06-11T02:19:08.411+0200] {processor.py:156} INFO - Started process (PID=47721) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:19:08.422+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:19:08.422+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:08.422+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:19:08.431+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:19:08.495+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:08.495+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:19:08.509+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:08.509+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:19:08.529+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.119 seconds
+[2023-06-11T02:19:53.813+0200] {processor.py:156} INFO - Started process (PID=47778) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:19:53.823+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:19:53.824+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:53.824+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:19:53.831+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:19:53.890+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:53.890+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:19:53.903+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:53.903+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:19:53.921+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.110 seconds
+[2023-06-11T02:22:11.376+0200] {processor.py:156} INFO - Started process (PID=47906) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:22:11.387+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:22:11.387+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:11.387+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:22:11.396+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:22:11.404+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:11.404+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:22:11.419+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:11.419+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:22:11.439+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.066 seconds
+[2023-06-11T02:22:56.233+0200] {processor.py:156} INFO - Started process (PID=47948) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:22:56.243+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:22:56.244+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:56.244+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:22:56.251+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:22:56.311+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:56.311+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:22:56.325+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:56.325+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:22:56.342+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.111 seconds
+[2023-06-11T02:23:40.135+0200] {processor.py:156} INFO - Started process (PID=47992) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:23:40.137+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:23:40.138+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:40.138+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:23:40.153+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:23:40.214+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:40.213+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:23:40.227+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:40.227+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:23:40.244+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.111 seconds
+[2023-06-11T02:24:22.756+0200] {processor.py:156} INFO - Started process (PID=48034) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:24:22.768+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-06-11T02:24:22.768+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:22.768+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:24:22.777+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-06-11T02:24:22.847+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:22.846+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:24:22.866+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:22.866+0200] {dag.py:3324} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-06-11T02:24:22.885+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.131 seconds

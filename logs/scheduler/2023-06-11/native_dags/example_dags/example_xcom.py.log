@@ -1,0 +1,35 @@
+[2023-06-11T02:17:54.710+0200] {processor.py:156} INFO - Started process (PID=47556) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:17:54.710+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-06-11T02:17:54.711+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:54.711+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:17:54.728+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:17:54.749+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:54.748+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:17:54.763+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:54.763+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-06-11T02:17:54.783+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.075 seconds
+[2023-06-11T02:19:22.217+0200] {processor.py:156} INFO - Started process (PID=47738) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:19:22.218+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-06-11T02:19:22.219+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:22.219+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:19:22.235+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:19:22.262+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:22.261+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:19:22.275+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:22.275+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-06-11T02:19:22.293+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2023-06-11T02:22:25.876+0200] {processor.py:156} INFO - Started process (PID=47921) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:22:25.887+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-06-11T02:22:25.888+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:25.888+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:22:25.904+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:22:25.924+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:25.924+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:22:25.938+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:25.938+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-06-11T02:22:25.956+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.082 seconds
+[2023-06-11T02:23:17.826+0200] {processor.py:156} INFO - Started process (PID=47970) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:23:17.836+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-06-11T02:23:17.837+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:17.836+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:23:17.853+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:23:17.874+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:17.874+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:23:17.887+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:17.887+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-06-11T02:23:17.906+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2023-06-11T02:24:08.267+0200] {processor.py:156} INFO - Started process (PID=48020) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:24:08.278+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-06-11T02:24:08.278+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:08.278+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:24:08.298+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py
+[2023-06-11T02:24:08.321+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:08.321+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:24:08.336+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:08.336+0200] {dag.py:3324} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-06-11T02:24:08.353+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py took 0.087 seconds

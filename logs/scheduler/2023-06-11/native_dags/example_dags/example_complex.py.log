@@ -1,0 +1,42 @@
+[2023-06-11T02:17:51.841+0200] {processor.py:156} INFO - Started process (PID=47553) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:17:51.842+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-11T02:17:51.842+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:51.842+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:17:51.855+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:17:51.877+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:51.876+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:17:51.891+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:51.891+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-11T02:17:51.920+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.081 seconds
+[2023-06-11T02:19:19.289+0200] {processor.py:156} INFO - Started process (PID=47735) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:19:19.290+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-11T02:19:19.291+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:19.291+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:19:19.303+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:19:19.326+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:19.326+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:19:19.342+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:19.342+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-11T02:19:19.360+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2023-06-11T02:22:22.715+0200] {processor.py:156} INFO - Started process (PID=47918) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:22:22.726+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-11T02:22:22.727+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:22.727+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:22:22.739+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:22:22.767+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:22.767+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:22:22.784+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:22.784+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-11T02:22:22.805+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2023-06-11T02:23:14.780+0200] {processor.py:156} INFO - Started process (PID=47967) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:23:14.781+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-11T02:23:14.782+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:14.782+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:23:14.796+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:23:14.826+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:14.826+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:23:14.845+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:14.845+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-11T02:23:14.864+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.086 seconds
+[2023-06-11T02:23:56.659+0200] {processor.py:156} INFO - Started process (PID=48009) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:23:56.669+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-11T02:23:56.670+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:56.670+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:23:56.683+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:23:56.706+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:56.706+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:23:56.720+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:56.720+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-11T02:23:56.737+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.080 seconds
+[2023-06-11T02:24:48.373+0200] {processor.py:156} INFO - Started process (PID=48059) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:24:48.375+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-06-11T02:24:48.376+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:48.376+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:24:48.389+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-06-11T02:24:48.411+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:48.411+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:24:48.425+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:48.425+0200] {dag.py:3324} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-06-11T02:24:48.443+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds

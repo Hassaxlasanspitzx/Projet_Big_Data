@@ -1,0 +1,56 @@
+[2023-06-11T02:17:36.699+0200] {processor.py:156} INFO - Started process (PID=47537) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:17:36.699+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:17:36.700+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:36.700+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:17:36.716+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:17:36.734+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:36.734+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:17:36.757+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:17:36.757+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:17:36.757394+00:00, run_after=2023-06-11T00:17:36.757394+00:00
+[2023-06-11T02:17:36.779+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.082 seconds
+[2023-06-11T02:18:16.582+0200] {processor.py:156} INFO - Started process (PID=47578) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:18:16.593+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:18:16.594+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:18:16.594+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:18:16.605+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:18:16.624+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:18:16.624+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:18:16.639+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:18:16.639+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:18:16.639296+00:00, run_after=2023-06-11T00:18:16.639296+00:00
+[2023-06-11T02:18:16.659+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.079 seconds
+[2023-06-11T02:19:03.809+0200] {processor.py:156} INFO - Started process (PID=47717) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:19:03.819+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:19:03.820+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:03.820+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:19:03.831+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:19:03.842+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:03.842+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:19:03.859+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:03.858+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:19:03.858738+00:00, run_after=2023-06-11T00:19:03.858738+00:00
+[2023-06-11T02:19:03.879+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2023-06-11T02:19:44.969+0200] {processor.py:156} INFO - Started process (PID=47759) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:19:44.971+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:19:44.971+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:44.971+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:19:44.982+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:19:45.000+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:44.999+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:19:45.016+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:19:45.016+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:19:45.016164+00:00, run_after=2023-06-11T00:19:45.016164+00:00
+[2023-06-11T02:19:45.034+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.066 seconds
+[2023-06-11T02:22:07.572+0200] {processor.py:156} INFO - Started process (PID=47900) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:22:07.574+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:22:07.575+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:07.575+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:22:07.587+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:22:07.607+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:07.607+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:22:07.621+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:07.621+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:22:07.621151+00:00, run_after=2023-06-11T00:22:07.621151+00:00
+[2023-06-11T02:22:07.642+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2023-06-11T02:22:52.572+0200] {processor.py:156} INFO - Started process (PID=47944) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:22:52.584+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:22:52.584+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:52.584+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:22:52.596+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:22:52.614+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:52.614+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:22:52.630+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:22:52.629+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:22:52.629719+00:00, run_after=2023-06-11T00:22:52.629719+00:00
+[2023-06-11T02:22:52.648+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.078 seconds
+[2023-06-11T02:23:37.253+0200] {processor.py:156} INFO - Started process (PID=47988) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:23:37.255+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:23:37.255+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:37.255+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:23:37.268+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:23:37.347+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:37.346+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:23:37.387+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:23:37.387+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:23:37.387296+00:00, run_after=2023-06-11T00:23:37.387296+00:00
+[2023-06-11T02:23:37.422+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.171 seconds
+[2023-06-11T02:24:18.636+0200] {processor.py:156} INFO - Started process (PID=48030) to work on /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:24:18.646+0200] {processor.py:758} INFO - Processing file /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T02:24:18.647+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:18.647+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:24:18.658+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T02:24:18.677+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:18.677+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T02:24:18.691+0200] {logging_mixin.py:117} INFO - [2023-06-11T02:24:18.691+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-10T00:24:18.691212+00:00, run_after=2023-06-11T00:24:18.691212+00:00
+[2023-06-11T02:24:18.712+0200] {processor.py:178} INFO - Processing /home/choco/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.077 seconds
